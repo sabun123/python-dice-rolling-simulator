@@ -4,6 +4,8 @@ Dice Rolling simulator written in Python 2024
 
 Following along Pearson's Skill Up With Python series from 2023. Not a direct match to the class, purposely made changes.
 
+![Game Image](game_image.png)
+
 ## Requirements 📜
 
 - Python 3.11++
